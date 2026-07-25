@@ -20,14 +20,104 @@
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema powers.xsd">
 
   <powers>
+    <!-- Region SR5 -->
+    <power>
+      <name>Adrenaline Boost</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Attribute Boost</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Danger Sense</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Enhanced Accuracy (skill)</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Improved Sense</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Kinesics</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Light Body</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Missile Parry</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Natural Immunity</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <!-- End Region -->
     <!-- Region Street Grimoire -->
+    <power>
+      <name>Animal Empathy</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Cloak</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Facial Sculpt</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Flexibility</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Freefall</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Hang Time</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Linguistics</name>
+      <adeptway>0.25</adeptway>
+    </power>
     <power>
       <name>Magic Sense</name>
       <action>Complex</action> <!-- Per Mechanics Thread V -->
     </power>
     <power>
+      <name>Nimble Fingers</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Penetrating Strike</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
       <name>Plague Cloud</name>
       <hide />
+    </power>
+    <power>
+      <name>Spirit Claw</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Stillness</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Sustenance</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Temperature Tolerance</name>
+      <adeptway>0.25</adeptway>
     </power>
     <power>
       <name>Critical Strike</name>
@@ -37,6 +127,82 @@
           <bonus>1</bonus>
         </weaponcategorydv>
       </bonus>
+    </power>
+    <!-- End Region -->
+    <!-- Region Stolen Souls -->
+    <power>
+      <name>Light Touch</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Mimic</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Nimble Fingers</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <!-- End Region -->
+    <!-- Region Shadow Spells -->
+    <power>
+      <name>Nimble Fingers</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Indomitable Will</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Iron Gut</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Iron Lungs</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Maintain Warmth</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Memory Displacement</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Piercing Senses</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Rooting</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <!-- End Region -->
+    <!-- Region Hard Targets -->
+    <power>
+      <name>Focused Archery</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Kiai</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Precision Throwing</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <!-- End Region -->
+    <!-- Region Cutting Aces -->
+    <power>
+      <name>Lie Detector</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Osmosis</name>
+      <adeptway>0.25</adeptway>
+    </power>
+    <power>
+      <name>Ventriloquism</name>
+      <adeptway>0.25</adeptway>
     </power>
     <!-- End Region -->
   </powers>

@@ -1506,6 +1506,9 @@
           <metatype>Cyborg</metatype>
         </oneof>
       </forbidden>
+      <bonus>
+        <biowareessmultiplier>10000</biowareessmultiplier>
+      </bonus>
     </quality>
     <quality>
       <name>Biocompatibility (Cyberware)</name>
@@ -1517,6 +1520,9 @@
           <metatype>Cyborg</metatype>
         </oneof>
       </forbidden>
+      <bonus>
+        <cyberwareessmultiplier>10000</cyberwareessmultiplier>
+      </bonus>
     </quality>
     <!-- End Region -->
     <!-- Region Chrome Flesh Negative Qualities -->
@@ -2399,6 +2405,9 @@
           <metatype>Cyborg</metatype>
         </oneof>
       </forbidden>
+      <bonus>
+        <cyberwaretotalessmultiplier>500</cyberwaretotalessmultiplier>
+      </bonus>
     </quality>
     <quality>
       <name>Blighted (6 Months)</name>

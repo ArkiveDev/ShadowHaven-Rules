@@ -28,6 +28,26 @@
       <name>Omegaware</name>
       <hide />
     </grade>
+    <grade>
+      <name>Used</name>
+      <ess>11</ess>
+    </grade>
+    <grade>
+      <name>Standard</name>
+      <ess>13</ess>
+    </grade>
+    <grade>
+      <name>Alphaware</name>
+      <ess>17</ess>
+    </grade>
+    <grade>
+      <name>Betaware</name>
+      <ess>19</ess>
+    </grade>
+    <grade>
+      <name>Deltaware</name>
+      <ess>23</ess>
+    </grade>
     <!-- End Region -->
     <!-- Region Adapsin -->
     <grade>
@@ -73,7 +93,7 @@
       <name>Adapsin</name>
       <bonus>
       <adapsin amendoperation="remove" />
-      <cyberwaretotalessmultiplier>90</cyberwaretotalessmultiplier>
+      <cyberwaretotalessmultiplier>700</cyberwaretotalessmultiplier>
       </bonus>
     </bioware>
     <bioware>

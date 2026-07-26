@@ -36,6 +36,8 @@
       <depaug>7</depaug>
       <qualityrestriction amendoperation="replace">
         <positive>
+            <quality>Beholden to Fate R1</quality>
+            <quality>Beholden to Fate R2</quality>
             <quality>Exceptional Depth Augmnetation(CHA)</quality>
             <quality>Exceptional Depth Augmnetation(INT)</quality>
             <quality>Exceptional Depth Augmnetation(LOG)</quality>
@@ -391,6 +393,8 @@
           <depaug>7</depaug>
           <qualityrestriction amendoperation="replace">
             <positive>
+                <quality>Beholden to Fate R1</quality>
+                <quality>Beholden to Fate R2</quality>
                 <quality>Exceptional Depth Augmnetation(CHA)</quality>
                 <quality>Exceptional Depth Augmnetation(INT)</quality>
                 <quality>Exceptional Depth Augmnetation(LOG)</quality>

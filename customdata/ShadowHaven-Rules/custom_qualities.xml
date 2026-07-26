@@ -1082,7 +1082,7 @@
 				</allof>
 			</required>
 			<bonus>
-				<biowareessmultiplier>90</biowareessmultiplier>
+				<biowareessmultiplier>10000</biowareessmultiplier>
 				<weaponcategorydv>
 					<name>Clubs</name>
 					<bonus>1</bonus>
@@ -1132,7 +1132,7 @@
 				</allof>
 			</required>
 			<bonus>
-				<cyberwareessmultiplier>90</cyberwareessmultiplier>
+				<cyberwareessmultiplier>10000</cyberwareessmultiplier>
 				<weaponcategorydv>
 					<name>Clubs</name>
 					<bonus>1</bonus>
@@ -1182,7 +1182,7 @@
 				</allof>
 			</required>
 			<bonus>
-				<cyberwareessmultiplier>90</cyberwareessmultiplier>
+				<cyberwareessmultiplier>10000</cyberwareessmultiplier>
 				<dodge>2</dodge>
 			</bonus>
 			<forbidden>
@@ -1217,7 +1217,7 @@
 				</allof>
 			</required>
 			<bonus>
-				<biowareessmultiplier>90</biowareessmultiplier>
+				<biowareessmultiplier>10000</biowareessmultiplier>
 				<dodge>2</dodge>
 			</bonus>
 			<forbidden>

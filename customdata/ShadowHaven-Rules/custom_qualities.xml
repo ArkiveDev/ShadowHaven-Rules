@@ -3206,12 +3206,6 @@
           <quality>Mystic Adept</quality>
         </oneof>
       </required>
-<!--       <forbidden>
-        <oneof>
-          <quality>MysAd: Disable Enchanting</quality>
-          <quality>MysAd: Disable Sorcery</quality>
-        </oneof>
-      </forbidden> -->
     </quality>
     <quality>
       <id>0b622dda-f690-4c3d-9ee7-4c20899eec11</id>
@@ -3228,12 +3222,6 @@
           <quality>Mystic Adept</quality>
         </oneof>
       </required>
-      <!-- <forbidden>
-        <oneof>
-          <quality>MysAd: Disable Conjuring</quality>
-          <quality>MysAd: Disable Sorcery</quality>
-        </oneof>
-      </forbidden> -->
     </quality>
     <quality>
       <id>89a74443-dee8-4ef1-8ad2-7396644ba214</id>
@@ -3250,12 +3238,6 @@
           <quality>Mystic Adept</quality>
         </oneof>
       </required>
-      <!-- <forbidden>
-        <oneof>
-          <quality>MysAd: Disable Conjuring</quality>
-          <quality>MysAd: Disable Enchanting</quality>
-        </oneof>
-      </forbidden> -->
     </quality>
     <!-- End Region -->
   </qualities>

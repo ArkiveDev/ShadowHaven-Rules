@@ -116,7 +116,7 @@
         </selectquality>
       </bonus>
     </quality>
-	  <!-- End Region -->
+    <!-- End Region -->
     <!-- Region Core Negative Qualities -->
     <quality>
       <name>Uneducated</name>

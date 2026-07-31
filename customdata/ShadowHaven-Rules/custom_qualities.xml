@@ -3190,5 +3190,73 @@
       <source>RF</source>
       <page>138</page>
     </quality>
-	</qualities>
+    <!-- Begin MysAd Qualities -->
+    <quality>
+      <id>30a2a549-4bb9-4d4c-b470-e30c91df2a0a</id>
+      <name>MysAd: Disable Conjuring</name>
+      <karma>0</karma>
+      <category>Positive</category>
+      <contributetolimit>False</contributetolimit>
+      <bonus>
+		<unlockskills>Enchanting</unlockskills>
+		<unlockskills>Sorcery</unlockskills>
+      </bonus>
+      <required>
+        <oneof>
+          <quality>Mystic Adept</quality>
+        </oneof>
+      </required>
+<!--       <forbidden>
+        <oneof>
+          <quality>MysAd: Disable Enchanting</quality>
+          <quality>MysAd: Disable Sorcery</quality>
+        </oneof>
+      </forbidden> -->
+    </quality>
+    <quality>
+      <id>0b622dda-f690-4c3d-9ee7-4c20899eec11</id>
+      <name>MysAd: Disable Enchanting</name>
+      <karma>0</karma>
+      <category>Positive</category>
+      <contributetolimit>False</contributetolimit>
+      <bonus>
+		<unlockskills>Conjuring</unlockskills>
+		<unlockskills>Sorcery</unlockskills>
+      </bonus>
+      <required>
+        <oneof>
+          <quality>Mystic Adept</quality>
+        </oneof>
+      </required>
+      <!-- <forbidden>
+        <oneof>
+          <quality>MysAd: Disable Conjuring</quality>
+          <quality>MysAd: Disable Sorcery</quality>
+        </oneof>
+      </forbidden> -->
+    </quality>
+    <quality>
+      <id>89a74443-dee8-4ef1-8ad2-7396644ba214</id>
+      <name>MysAd: Disable Sorcery</name>
+      <karma>0</karma>
+      <category>Positive</category>
+      <contributetolimit>False</contributetolimit>
+      <bonus>
+		<unlockskills>Enchanting</unlockskills>
+		<unlockskills>Conjuring</unlockskills>
+      </bonus>
+      <required>
+        <oneof>
+          <quality>Mystic Adept</quality>
+        </oneof>
+      </required>
+      <!-- <forbidden>
+        <oneof>
+          <quality>MysAd: Disable Conjuring</quality>
+          <quality>MysAd: Disable Enchanting</quality>
+        </oneof>
+      </forbidden> -->
+    </quality>
+    <!-- End Region -->
+  </qualities>
 </chummer>

@@ -97,8 +97,26 @@
         </conditionmonitor>
       </bonus>
     </quality>
-  <!--Region Shadowrun Core Positive Qualities -->
-	<!-- End Region -->
+    <!--Region Shadowrun Core Positive Qualities -->
+    <quality>
+      <name>Mystic Adept</name>
+      <bonus amendoperation="replace">
+        <enableattribute>
+          <name>MAG</name>
+        </enableattribute>
+        <enabletab>
+          <name>magician</name>
+          <name>adept</name>
+        </enabletab>
+        <unlockskills>Aware</unlockskills>
+        <selectquality>
+          <quality forced="True">MysAd: Disable Conjuring</quality>
+          <quality forced="True">MysAd: Disable Enchanting</quality>
+          <quality forced="True">MysAd: Disable Sorcery</quality>
+        </selectquality>
+      </bonus>
+    </quality>
+	  <!-- End Region -->
     <!-- Region Core Negative Qualities -->
     <quality>
       <name>Uneducated</name>

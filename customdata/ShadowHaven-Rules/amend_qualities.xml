@@ -997,16 +997,6 @@
             <name>CHA</name>
             <max>-2</max>
         </specificattribute>
-        <selectattributes amendoperation="recurse">
-          <selectattribute amendoperation="addnode">
-            <attribute>LOG</attribute>
-            <val>-1</val>
-          </selectattribute>
-          <selectattribute amendoperation="addnode">
-            <attribute>CHA</attribute>
-            <val>-1</val>
-          </selectattribute>
-        </selectattributes>
       </bonus>
     </quality>
 	<quality>

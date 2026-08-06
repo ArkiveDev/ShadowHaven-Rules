@@ -12616,7 +12616,7 @@
 	  <name>Nodachi</name>
 	  <category>Blades</category>
 	  <type>Melee</type>
-	  <conceal>+4</conceal>
+	  <conceal>+10</conceal>
 	  <accuracy>5</accuracy>
 	  <reach>2</reach>
 	  <damage>({STR}+5)P</damage>
